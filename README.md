@@ -15,7 +15,4 @@ The purpose of this project is to create a simple Rock, Paper, Scissors game usi
 
 ## Installation and Setup
 
-1. Clone the repository to your local machine:
-
-   ```bash
-   git clone https://github.com/fatihyardak/rock-paper-scissors.git
+https://github.com/fatihyardak/rock-paper-scissors/blob/main/rock_paper_scissors_.ipynb
